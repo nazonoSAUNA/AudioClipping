@@ -1,6 +1,6 @@
 # 音声クリッピング(拡張編集フィルタプラグイン)
 - [ダウンロードはこちら](../../releases/)
-- ReverberationObject.eefをpluginsフォルダに配置してください
+- AudioClipping.eefをpluginsフォルダに配置してください
 
 - このプラグインを読み込むためにはpatch.aul r43_ss_58以降が必要です https://scrapbox.io/nazosauna/patch.aul
 
